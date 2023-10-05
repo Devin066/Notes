@@ -1,0 +1,42 @@
+ALL HTTP STATUS CODES
+
+1XX INFORMMAL
+100 Continue
+101 Switching Protocols
+102 Processing
+
+2XX SUCCESS
+200 Ok
+201 Created
+204 No Content
+
+3XX REDIRECTION
+300 Multiple Choices
+301 Moved Permanently
+304 Not Modified
+
+4XX CLIENT ERROR
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+405 Method Not Allowed
+406 Not Acceptable
+407 Proxy Authentication Requireed
+408 Request Timeout
+409 Conflict
+410 Gone
+411 Length Required
+412 Precondition Failed
+413 Payload Too Large
+414 URI (Uniform Resource Identifier) Too Long
+415 Unsupported Media Type
+
+5XX SERVER ERROR
+500 Internal Server Error
+501 Not Implemented
+502 Bad Gateway
+503 Service Unavailable
+
+
+
